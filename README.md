@@ -48,6 +48,6 @@
  
  Compilar con: "g++ GAME.h CHARACTER.h TLOZELDA.h GANONDORF.h FINALFANTASY.h SEPHIROTH.h MAIN.cpp"
 
- windows con g++ "MAIN.exe"
+ windows: "MAIN.exe"
 
  linux: "/a.out"
