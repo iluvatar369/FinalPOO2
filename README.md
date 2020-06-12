@@ -44,6 +44,10 @@
     
 # Consideraciones
 
- El programa solo corre en la consola y esta hecho con c++ por lo que podría correr en todos los sistemas operativos
+ El programa solo corre en la consola y esta hecho con c++ en Windows 10
+ 
+ Compilar con: "g++ GAME.h CHARACTER.h TLOZELDA.h GANONDORF.h FINALFANTASY.h SEPHIROTH.h MAIN.cpp"
 
- Se puede compilar en windows con g++ "a.exe"
+ windows con g++ "MAIN.exe"
+
+ linux: "/a.out"
